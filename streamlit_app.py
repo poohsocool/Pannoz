@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image 
+import matplotlib.pyplot as plt
 from itertools import product
 import warnings
 from binance.client import Client

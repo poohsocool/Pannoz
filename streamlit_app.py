@@ -5,8 +5,8 @@ from PIL import Image
 #import matplotlib.pyplot as plt
 from itertools import product
 import warnings
-from binance.client import Client
-from binance import ThreadedWebsocketManager
+#from binance.client import Client
+#from binance import ThreadedWebsocketManager
 from datetime import datetime, timedelta
 from ast import literal_eval
 import streamlit.components.v1 as components
